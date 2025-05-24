@@ -73,8 +73,6 @@ async function run() {
     }
 }
 
-// Mafikul_assigment-10
-// QMZ2iQ6SnIx4hil2
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
